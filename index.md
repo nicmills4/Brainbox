@@ -10,6 +10,12 @@ The brain is unique to us all, which is why it is so difficult to grab everyone'
 ### Project Goals:
 We would like for this project to be a web-app that allows users to customize and create their own Brainboxes. The will be a few template boxes that users can use and/or edit. The different answering styles we would like to provide initially will be basic fill in answers, multiple choice, and grid drawing. 
 
+## Core Features
+-Modular Player to Player Framework
+-Multiple activities available
+-Player Avatars and “Tags”
+-Pattern recognition, Drawing (Pictionary-esque), Prompt-Response
+
 ### Approach
 
 ### Youtube Link
