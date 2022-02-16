@@ -1,9 +1,5 @@
 ## BrainBox
 
-You can use the [editor on GitHub](https://github.com/nicmills4/Brainbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 Team members:
 Nicolas Mills, Kiera Phillips, Evans Shaw, Megan Carneal, Hayden Jones
 
@@ -14,21 +10,10 @@ The brain is unique to us all, which is why it is so difficult to grab everyone'
 ### Project Goals:
 We would like for this project to be a web-app that allows users to customize and create their own Brainboxes. The will be a few template boxes that users can use and/or edit. The different answering styles we would like to provide initially will be basic fill in answers, multiple choice, and grid drawing. 
 
-```markdown
-Syntax highlighted code block
+### Approach
 
-# Header 1
-## Header 2
-### Header 3
+### Youtube Link
 
-- Bulleted
-- List
+### Link to Repo
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
