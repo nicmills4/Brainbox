@@ -7,9 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Team members:
 Nicolas Mills, Kiera Phillips, Evans Shaw, Megan Carneal, Hayden Jones
 
-### Markdown
+### Project Overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The brain is unique to us all, which is why it is so difficult to grab everyone's attention and keep them entertained enough to remain focused. Brainbox is a refined study platform and entertainment party web-app that offers various forms of in game customizations. With a design similar to games such as Kahoot, Cards Against Humanity, and Quiplash, Brainbox offers various forms of interactions for all users. Brainbox is a platform with customizable features such as avatars, questions, answer styles, and team selections. With these features, box hosts will be able to customize previously created boxes, or create their own from scratch. Brainbox will combime the weight of entertainment with the need for education in order to provide box creators the ability to target their specific audiences.
+
+### Project Goals:
+We would like for this project to be a web-app that allows users to customize and create their own Brainboxes. The will be a few template boxes that users can use and/or edit. The different answering styles we would like to provide initially will be basic fill in answers, multiple choice, and grid drawing. 
 
 ```markdown
 Syntax highlighted code block
@@ -29,12 +32,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nicmills4/Brainbox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
