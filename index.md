@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/99756445/155043891-2cd36407-831a-411e-bcad-3edcfb6bbc32.png" width="200">
+<img src="https://user-images.githubusercontent.com/99446921/155044730-81389eb5-fd62-4ecc-9bf6-9a3ca1223a86.jpg" width="200">
 
 ## BrainBox
 Team members:
