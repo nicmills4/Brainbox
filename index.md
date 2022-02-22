@@ -1,4 +1,4 @@
-![juggling](https://user-images.githubusercontent.com/99756445/155043891-2cd36407-831a-411e-bcad-3edcfb6bbc32.png)
+<img src="https://user-images.githubusercontent.com/99756445/155043891-2cd36407-831a-411e-bcad-3edcfb6bbc32.png" width="200">
 
 ## BrainBox
 Team members:
