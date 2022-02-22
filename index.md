@@ -26,8 +26,6 @@ One user experience may be creating a game. The game host logs into their accoun
 
 Once they have joined, the host starts gameplay, and prompts are sent out to players. Based on the predetermined conditions of the game, players respond and participate in multiple rounds of gameplay. Once gameplay is concluded, a leaderboard is displayed with the scores associated to user profiles. 
 
-### Youtube Link
-
 ### Link to Repo
 https://github.com/nicmills4/Brainbox
 
