@@ -1,5 +1,6 @@
-## BrainBox
+![juggling](https://user-images.githubusercontent.com/99756445/155043891-2cd36407-831a-411e-bcad-3edcfb6bbc32.png)
 
+## BrainBox
 Team members:
 Nicolas Mills, Kiera Phillips, Evans Shaw, Megan Carneal, Hayden Jones
 
