@@ -22,10 +22,12 @@ We would like for this project to be a web-app that allows users to customize an
 - Socket.io for backend 
 
 #### User Experience
-One user experience may be creating a game. The game host logs into their account and navigates to the game creation toolbox. From there, they interact with our sandbox tools to create a game that fits their needs. Once finished, they click "Create Game," after which they move to their created game library and click "Start Game". 
+One user experience may be creating a game. The game host logs into their account and navigates to the game creation toolbox. From there, they interact with our sandbox tools to create a game that fits their needs. Once finished, they click "Create Game," after which they move to their created game library and click "Start Game". Then, players join the game. 
+
+Once they have joined, the host starts gameplay, and prompts are sent out to players. Based on the predetermined conditions of the game, players respond and participate in multiple rounds of gameplay. Once gameplay is concluded, a leaderboard is displayed with the scores associated to user profiles. 
 
 ### Youtube Link
 
 ### Link to Repo
-https://github.com/nicmills4/Brainbox
+
 
