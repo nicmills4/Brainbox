@@ -18,11 +18,14 @@ We would like for this project to be a web-app that allows users to customize an
 
 ### Approach
 #### Tools/APIs/Frameworks
+- React for frontend 
+- Socket.io for backend 
 
 #### User Experience
+One user experience may be creating a game. The game host logs into their account and navigates to the game creation toolbox. From there, they interact with our sandbox tools to create a game that fits their needs. Once finished, they click "Create Game," after which they move to their created game library and click "Start Game". 
 
 ### Youtube Link
 
 ### Link to Repo
-https://github.com/nicmills4/Brainbox
+
 
