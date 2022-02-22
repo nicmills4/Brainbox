@@ -24,3 +24,6 @@ socket.connect('http://' + ipAddress + ':' + port);
 Make sure you are able to connect to the IP address across the network from the client device for this to work.
 
 ########################################
+
+Sample script for Socket.io and Firebase
+https://gist.github.com/jochasinga/63ceadc19c5139f55660
