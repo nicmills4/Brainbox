@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => {
    return (
-      <div>
+      <div align="center">
          <h1>
             Welcome to BrainBox!
          </h1>
